@@ -19,6 +19,7 @@ html{
     align-items: center;
     position: sticky;
     top: 0;
+    z-index: 1;
 }
 
 /* Navigation Bar: Logo and Image */
